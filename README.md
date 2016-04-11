@@ -20,5 +20,7 @@ and it is recommended to have a translucent activity
 </style>
 ```
 If you want to have a similar about page like the QuickDialer, you can extend the BaseAboutActivity, but remember you have to use a theme with no default action bar, or else there will be some problem.
+
 For further information you can refer to the QuickDialer project or contact me via email.
+
 And the code might be ugly or not well formated because it was in a hurry, so I Apologise for that.
