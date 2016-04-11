@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:colorPrimary">#009688</item>
+	</style>
+
+	<style name="TransparentTheme" parent="android:Theme.Material.Light">
+		<item name="android:scrollbarTrackVertical">@drawable/scrollbart</item>
+		<item name="android:scrollbarThumbVertical">@drawable/scrollbar</item>
+		<item name="android:colorPrimaryDark">#00000000</item>
+		<item name="android:navigationBarColor">#00000000</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowShowWallpaper">true</item>
+	</style>
+
+</resources>

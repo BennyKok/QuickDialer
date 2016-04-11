@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickDialer</string>
+	<string name="warning"><![CDATA[
+		This extension is not a standalone application and require Material DarkLauncher installed on your device.
+		]]></string>
+	<string name="description"><![CDATA[
+		•Making call instanly
+		<br>
+		•Material design with animation
+		]]></string>
+	<string name="changelog"><![CDATA[
+		v1.0
+		]]></string>
+</resources>
